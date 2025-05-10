@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "nombre": "Homer Simpson",
+    "ocupacion": "Inspector de seguridad",
+    "personalidad": "Perezoso y glotón",
+    "edad": 39,
+    "foto": "https://upload.wikimedia.org/wikipedia/en/0/02/Homer_Simpson_2006.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Marge Simpson",
+    "ocupacion": "Ama de casa",
+    "personalidad": "Paciente y amorosa",
+    "edad": 36,
+    "foto": "https://upload.wikimedia.org/wikipedia/en/0/0b/Marge_Simpson.png"
+  },
+  {
+    "id": 3,
+    "nombre": "Bart Simpson",
+    "ocupacion": "Estudiante",
+    "personalidad": "Rebelde y travieso",
+    "edad": 10,
+    "foto": "https://upload.wikimedia.org/wikipedia/en/a/aa/Bart_Simpson_200px.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Lisa Simpson",
+    "ocupacion": "Estudiante",
+    "personalidad": "Inteligente y ética",
+    "edad": 8,
+    "foto": "https://upload.wikimedia.org/wikipedia/en/e/ec/Lisa_Simpson.png"
+  },
+  {
+    "id": 5,
+    "nombre": "Maggie Simpson",
+    "ocupacion": "Bebé",
+    "personalidad": "Silenciosa pero astuta",
+    "edad": 1,
+    "foto": "https://upload.wikimedia.org/wikipedia/en/9/9d/Maggie_Simpson.png"
+  },
+  {
+    "id": 6,
+    "nombre": "Ned Flanders",
+    "ocupacion": "Propietario de la tienda zurda",
+    "personalidad": "Religioso y amable",
+    "edad": 60,
+    "foto": "https://upload.wikimedia.org/wikipedia/en/8/84/Ned_Flanders.png"
+  },
+  {
+    "id": 7,
+    "nombre": "Milhouse Van Houten",
+    "ocupacion": "Estudiante",
+    "personalidad": "Inseguro y leal",
+    "edad": 10,
+    "foto": "https://upload.wikimedia.org/wikipedia/en/1/11/Milhouse_Van_Houten.png"
+  },
+  {
+    "id": 8,
+    "nombre": "Mr. Burns",
+    "ocupacion": "Dueño de la planta nuclear",
+    "personalidad": "Avaro y sin escrúpulos",
+    "edad": 104,
+    "foto": "https://upload.wikimedia.org/wikipedia/en/5/5a/Mr_Burns.png"
+  },
+  {
+    "id": 9,
+    "nombre": "Moe Szyslak",
+    "ocupacion": "Cantinero",
+    "personalidad": "Gruñón y solitario",
+    "edad": 45,
+    "foto": "https://upload.wikimedia.org/wikipedia/en/2/22/Moe_Szyslak.png"
+  },
+  {
+    "id": 10,
+    "nombre": "Krusty el Payaso",
+    "ocupacion": "Comediante",
+    "personalidad": "Cínico y famoso",
+    "edad": 55,
+    "foto": "https://upload.wikimedia.org/wikipedia/en/5/5a/Krustytheclown.png"
+  },
+  {
+    "id": 11,
+    "nombre": "Ralph Wiggum",
+    "ocupacion": "Estudiante",
+    "personalidad": "Ingenuo y gracioso",
+    "edad": 8,
+    "foto": "https://upload.wikimedia.org/wikipedia/en/e/e4/Ralph_Wiggum.png"
+  }
+]
