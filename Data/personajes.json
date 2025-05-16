@@ -32,14 +32,6 @@
     "foto": "https://upload.wikimedia.org/wikipedia/en/e/ec/Lisa_Simpson.png"
   },
   {
-    "id": 5,
-    "nombre": "Maggie Simpson",
-    "ocupacion": "Bebé",
-    "personalidad": "Silenciosa pero astuta",
-    "edad": 1,
-    "foto": "https://upload.wikimedia.org/wikipedia/en/9/9d/Maggie_Simpson.png"
-  },
-  {
     "id": 6,
     "nombre": "Ned Flanders",
     "ocupacion": "Propietario de la tienda zurda",
@@ -78,13 +70,5 @@
     "personalidad": "Cínico y famoso",
     "edad": 55,
     "foto": "https://upload.wikimedia.org/wikipedia/en/5/5a/Krustytheclown.png"
-  },
-  {
-    "id": 11,
-    "nombre": "Ralph Wiggum",
-    "ocupacion": "Estudiante",
-    "personalidad": "Ingenuo y gracioso",
-    "edad": 8,
-    "foto": "https://upload.wikimedia.org/wikipedia/en/e/e4/Ralph_Wiggum.png"
   }
 ]

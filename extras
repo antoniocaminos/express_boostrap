@@ -1,6 +1,9 @@
+/* agregar personaje */
 {
   "nombre": "Ralph Wiggum",
   "ocupacion": "Estudiante",
   "personalidad": "Ingenuo y gracioso"
 }
-/* agregar personaje */
+
+render: http://localhost:3000
+login: http://127.0.0.1:5500/public/login/login.html

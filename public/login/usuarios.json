@@ -1,0 +1,20 @@
+[
+  {
+    "user": "homero@springfield.com",
+    "password": "donas",
+    "nombre": "Homer Simpson",
+    "ocupacion": "Inspector de seguridad",
+    "personalidad": "Perezoso y glotón",
+    "edad": 39,
+    "foto": "https://upload.wikimedia.org/wikipedia/en/0/02/Homer_Simpson_2006.png"
+  },
+  {
+    "user": "lisa@springfield.com",
+    "password": "saxofon",
+    "nombre": "Lisa Simpson",
+    "ocupacion": "Estudiante",
+    "personalidad": "Inteligente y ética",
+    "edad": 8,
+    "foto": "https://upload.wikimedia.org/wikipedia/en/e/ec/Lisa_Simpson.png"
+  }
+]
